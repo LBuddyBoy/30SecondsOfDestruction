@@ -1,0 +1,10 @@
+name: 30Destruction
+version: 0.1
+author: LBuddyBoy
+main: me.lbuddyboy.destruction.Destruction
+
+commands:
+  destruction:
+    description: Manages all of the frame arguments
+  invincible:
+    description: Keep dying? Use this for when you go below 1 heart you get regenerated hearts!
